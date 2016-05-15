@@ -1,2 +1,2 @@
-# Ball-Jumper
-Repository for ZOE-inspired kinda game
+# Ball-Roller
+Basic 2D Platformer
